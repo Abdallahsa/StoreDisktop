@@ -1,0 +1,16 @@
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\bin\Debug\store disktop.exe.config
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\bin\Debug\store disktop.exe
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\bin\Debug\store disktop.pdb
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store disktop.csprojAssemblyReference.cache
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Form1.resources
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Properties.Resources.resources
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store disktop.csproj.GenerateResource.cache
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store disktop.csproj.CoreCompileInputs.cache
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store disktop.exe
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store disktop.pdb
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Category.resources
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Product.resources
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Staff.resources
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Oredr.resources
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Customer.resources
+C:\Users\Abdallah Saleh\source\repos\store disktop\store disktop\obj\Debug\store_disktop.Brand.resources
